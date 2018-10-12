@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomAppBar</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_search">Search</string>
+</resources>
